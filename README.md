@@ -1,9 +1,14 @@
 # 我是奶龍
 
+## 現在進行中
+- COS 社雨備提案 
+
+
 - todo
 
+
 P0
-- COS 社雨備提案
+- COS 社雨備提案 
 - basic design 期中作品
 - image synthesize 左右兩邊建議
 - NTHU UIUX 使用者旅程圖練習
