@@ -3,12 +3,11 @@
 **📢我今天五點起床📢**
 
 ## 現在進行中
-
+- basic design 期中作品
 
 ## TODO
 
 P0
-- basic design 期中作品
 - NTHU UIUX 使用者旅程圖練習
 - NTHU UIUX 蝦皮結帳的 flowchart
 - LIVE STOCK 繳交 ZIP 檔案
