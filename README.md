@@ -3,7 +3,6 @@
 **📢我今天五點起床📢**
 
 ## 現在進行中
-- image synthesize 左右兩邊建議
 
 
 ## TODO
