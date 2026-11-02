@@ -5,6 +5,8 @@
 ## 現在進行中
 
 ## TODO
+  - image synthesize 期中作品提案
+
 
 P0
 - NTHU UIUX 使用者旅程圖練習
@@ -12,7 +14,7 @@ P0
 - LIVE STOCK 繳交 ZIP 檔案
 
 P1 
-- image synthesize 期中作品提案
+
 
 - p2
 
