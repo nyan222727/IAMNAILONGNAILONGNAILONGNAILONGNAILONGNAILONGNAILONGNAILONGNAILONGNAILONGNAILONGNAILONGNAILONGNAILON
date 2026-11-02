@@ -3,9 +3,10 @@
 **今天 6:45 分起床 大約花了 10 mins 把自己開機 7 點 13 睡回去 9 點又開機 **
 
 ## 現在進行中
+  - image synthesize 期中作品提案
 
 ## TODO
-  - image synthesize 期中作品提案
+
 
 
 P0
