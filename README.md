@@ -1,18 +1,17 @@
 # 我是奶龍
 
-**今天 6:45 分起床 大約花了 10 mins 把自己開機 7 點 13 睡回去 9 點又開機 **
+**今天 7:20 起床，吃早餐鬼混到 8 點開始**
 
 ## 現在進行中
-  - image synthesize 期中作品提案
+- NTHU UIUX 使用者旅程圖練習
 
 ## TODO
 
 
 
 P0
-- NTHU UIUX 使用者旅程圖練習
-- NTHU UIUX 蝦皮結帳的 flowchart
-- LIVE STOCK 繳交 ZIP 檔案
+
+- image synthesize 期中作品提案
 
 P1 
 
