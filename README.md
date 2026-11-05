@@ -1,38 +1,40 @@
 # 我是奶龍
 
-**今天 7:20 起床，吃早餐鬼混到 8 點開始**
+待解決問題，起床後不久就會睡回去了
 
 ## 現在進行中
-- NTHU UIUX 使用者旅程圖練習
+
 
 ## TODO
 
 
 
 P0
+- 完成影像合成期中作品
+- 畫完 livestock 單人版本的流程圖
+- NTHU UIUX 使用者旅程圖練習
+- clustron output UI
 
-- image synthesize 期中作品提案
 
 P1 
-
+- 完成 livestock 的金錢系統
+- 找要做的人物模型參考圖
+- NTHU UIUX component 練習
+- metahuman 系統練習
+- CLUSTRON 任務
+- NTHU UIUX 期末作業提議
 
 - p2
-
-- clustron output UI
-- NTHU UIUX 期末作業提議
-- NTHU UIUX FIGMA 進階練習
-- Animation Production 提案
-- 找要做的人物模型參考圖
-- metahuman 系統練習
 - 旋律企劃
-- CLUSTRON 任務
+
+
 
 p3 
 - MOTION CAPTURE 期末專案提議
 
 
 backlog
-- 收落雨松活動前
+- 收落雨松活動錢
 
 
 ---
