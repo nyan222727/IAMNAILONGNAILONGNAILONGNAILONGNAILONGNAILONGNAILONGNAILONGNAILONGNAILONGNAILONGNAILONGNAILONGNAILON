@@ -5,6 +5,7 @@
 
 ## 現在進行中
 - clustron output UI(flowchart 已經完成，等待回覆中）
+- pf 修圖練習
 ## TODO
 
 
