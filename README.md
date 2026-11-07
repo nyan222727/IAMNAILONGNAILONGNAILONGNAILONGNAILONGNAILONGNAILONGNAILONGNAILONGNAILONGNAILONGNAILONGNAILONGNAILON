@@ -1,18 +1,17 @@
 # 我是奶龍
-今天 7:12 起床 666
+今天 8 點起床
 
-早上不想動，還是一樣... 
+早上一起床有精神，過一下子又會想睡回去，但有撐過去，然後就去 PF 玩了。
 
 ## 現在進行中
-- 畫完 livestock 單人版本的流程圖
-
+- clustron output UI
 ## TODO
 
 
 
 P0
 - NTHU UIUX 使用者旅程圖練習
-- clustron output UI
+
 
 
 P1 
