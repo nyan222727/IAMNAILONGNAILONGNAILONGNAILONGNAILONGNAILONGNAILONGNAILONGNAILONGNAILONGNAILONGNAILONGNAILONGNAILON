@@ -4,7 +4,7 @@
 早上一起床有精神，過一下子又會想睡回去，但有撐過去，然後就去 PF 玩了。
 
 ## 現在進行中
-- clustron output UI(flowchart 已經完成，等待回覆中）
+
 - pf 修圖練習
 ## TODO
 
@@ -23,6 +23,7 @@ P1
 - CLUSTRON 任務
 - NTHU UIUX 期末作業提議
 - 影像合成期中作品修改，總感覺可以再加些啥
+- clustron output UI
 
 - p2
 - 旋律企劃
