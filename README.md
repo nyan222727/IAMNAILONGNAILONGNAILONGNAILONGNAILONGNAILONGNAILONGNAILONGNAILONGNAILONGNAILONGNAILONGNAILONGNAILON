@@ -5,20 +5,19 @@
 
 ## 現在進行中
 
-- pf 修圖練習
 ## TODO
-
+- 詢問優尼我的修圖改善方向
 
 
 P0
-- NTHU UIUX 使用者旅程圖練習
+- 完成 livestock 的金錢系統
 
 
 
 P1 
-- 完成 livestock 的金錢系統
-- 找要做的人物模型參考圖
+
 - NTHU UIUX component 練習
+- NTHU UIUX 使用者旅程圖練習
 - metahuman 系統練習
 - CLUSTRON 任務
 - NTHU UIUX 期末作業提議
