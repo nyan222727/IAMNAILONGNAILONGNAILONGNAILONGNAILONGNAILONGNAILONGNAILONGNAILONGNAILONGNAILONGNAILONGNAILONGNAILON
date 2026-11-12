@@ -25,6 +25,8 @@ P0
 - unreal 作業提案
 - NTHU UIUX 期末作業提議
 - 聯絡清大端關於獎學金的事情
+- 影像合成作業
+- motion capture 作業
 
 
 P1 
