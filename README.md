@@ -11,7 +11,7 @@
 - 日文讀一點點
 
 ## 現在進行中
-
+- unreal 作業提案
 - 完成 livestock 的金錢系統
 
 ## TODO
@@ -20,7 +20,6 @@ P0
 - 音樂科技導論作業繳交
 - NTHU UIUX component 練習
 - NTHU UIUX 使用者旅程圖練習
-- unreal 作業提案
 - NTHU UIUX 期末作業提議
 - 聯絡清大端關於獎學金的事情
 - 影像合成作業
